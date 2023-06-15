@@ -3,7 +3,6 @@
 ## Descrição
 
 O TypeScript é uma linguagem de programação de código aberto desenvolvida pela Microsoft. Ela é uma versão fortemente tipada e superset da linguagem JavaScript, o que significa que qualquer código JavaScript válido também é válido em TypeScript. No entanto, o TypeScript adiciona recursos adicionais que ajudam os desenvolvedores a escrever um código mais seguro, robusto e escalável.
-<br>
 
 ## Características Principais
 
@@ -16,7 +15,6 @@ O TypeScript é uma linguagem de programação de código aberto desenvolvida pe
 - **ECMAScript**: O TypeScript é compatível com as últimas especificações do ECMAScript (padrão JavaScript), o que significa que os desenvolvedores podem usar recursos avançados do JavaScript moderno, como arrow functions, promessas, módulos e muito mais.
 
 - **Ferramentas e Ecossistema**: O TypeScript é amplamente suportado por uma variedade de ferramentas de desenvolvimento, como editores de código, IDEs e frameworks populares, como o Angular, React e Node.js. Além disso, existem muitas bibliotecas e pacotes disponíveis especificamente para o TypeScript, que podem ser facilmente integrados aos projetos.
-<br>
 
 ## Como Usar
 
@@ -39,7 +37,6 @@ tsc script.ts
 Isso irá gerar um arquivo `script.js` que contém o código JavaScript equivalente.
 
 4. Agora você pode executar o código JavaScript gerado usando o Node.js ou incorporá-lo em seu aplicativo da web.
-<br>
 
 ## Exemplo de Código
 
@@ -59,7 +56,6 @@ showMessage(message);
 ```
 
 Neste exemplo, definimos uma variável `message` com o tipo `string` e uma função `showMessage` que recebe um parâmetro `msg` do tipo `string`. Ao chamar a função `showMessage` com a variável `message`, a mensagem é exibida no console.
-<br>
 
 ## Conclusão
 
