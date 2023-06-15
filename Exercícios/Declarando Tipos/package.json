@@ -1,0 +1,15 @@
+{
+  "name": "declarando-tipos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc -w"
+  },
+  "keywords": [],
+  "author": "Matheus",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
